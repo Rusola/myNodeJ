@@ -1,0 +1,1 @@
+******* Hey! Did you know that readFile with ut8 will return a string?! *******
